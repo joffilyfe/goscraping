@@ -5,6 +5,6 @@ This example was made for discipline of Relational Databases II with a teacher D
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/6vk3453lzuuggfgjec7wghdst.png)](https://asciinema.org/a/6vk3453lzuuggfgjec7wghdst)
+[![asciicast](https://asciinema.org/a/1qgrfcacc8xinok0osn9261d6.png)](https://asciinema.org/a/1qgrfcacc8xinok0osn9261d6)
 
 Credits: [Marianna Soares Veríssimo](http://github.com/mariannave)
